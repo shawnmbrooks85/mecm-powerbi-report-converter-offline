@@ -1,0 +1,14 @@
+# Output directory
+output/
+
+# Temp files
+*.tmp
+*.log
+
+# Power BI temp files
+*.pbix.tmp
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
